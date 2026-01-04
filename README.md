@@ -69,12 +69,89 @@
 </p> -->
 
 <h3 align="left">Languages and Tools:</h3>
+<!------------------------------------------------------------------------------------ SKILLS --------------------------------------------------------------------------------------------------->
+<h1 align="center">🚀 SKILLS 🚀 </h1>
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Programming Languages</th>
+        <th>Front-End & Back-End</th>
+        <th>Databases</th>
+        <th>Tools/Platforms</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <!-- Programming Languages -->
+        <td>
+          <div align="center">
+            <a href="https://skillicons.dev">
+              <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50" />
+              <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50" /><br/>
+                   <img src="https://skillicons.dev/icons?i=Python" alt="Python" width="50" height="50" /><br/>
+                   <img src="https://skillicons.dev/icons?i=c" alt="c" width="50" height="50" /><br/>
+                   <img src="https://skillicons.dev/icons?i=java" alt="latex" width="50" height="50" /><br/>
+              <!-- Add more icons here if needed -->
+            </a>
+          </div>
+        </td>
+        <!-- Front-End & Back-End Development -->
+        <td>
+          <div align="center">
+            <a href="https://skillicons.dev">
+              <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50" height="50" />
+              <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50" height="50" />
+              <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="50" height="50" />
+              <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50" /><br/>
+              <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="50" height="50" />
+              <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="50" height="50" />
+            </a>
+          </div>
+        </td>
+        <!-- Databases -->
+        <td>
+          <div align="center">
+            <a href="https://skillicons.dev">
+              <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50" />
+              <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50" />
+            </a>
+          </div>
+        </td>
+        <!-- Tools/Platforms -->
+        <td>
+          <div align="center">
+            <a href="https://skillicons.dev">
+              <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50" />
+              <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50" />
+              <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50" height="50" />
+              <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50" height="50" />
+              <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50" />
+              <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="50" height="50" />
+              <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="50" height="50" /><br/>
+              <img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" width="50" height="50" />
+                   <img src="https://skillicons.dev/icons?i=elasticsearch" alt="elasticsearch" width="50" height="50" />
+                   <img src="https://skillicons.dev/icons?i=eclipse" alt="eclipse" width="50" height="50" />
+                        <img src="https://skillicons.dev/icons?i=npm" alt="npm" width="50" height="50" />
+                        <img src="https://skillicons.dev/icons?i=pnpm" alt="pnpm" width="50" height="50" />
+                        <img src="https://skillicons.dev/icons?i=yarn" alt="yarn" width="50" height="50" />
+            </a>
+          </div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
+
+
+
+
+
+
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jenkins" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/langchain" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=achyuth-2308&show_icons=true&locale=en&layout=compact" alt="achyuth-2308" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=achyuth-2308&show_icons=true&locale=en" alt="achyuth-2308" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=achyuth-2308&" alt="achyuth-2308" /></p>
-
-
