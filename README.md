@@ -1,3 +1,6 @@
+<!-- Full-width Image -->
+<img src="https://ik.imagekit.io/js1b7wgem/banner.jpeg?updatedAt=1746845501003" alt="Coding Banner" style="width: 100%; height: auto;">
+
 # Hi 👋, I’m Achyuth Mukund :)
 
 **Software Developer | Researching in the convergence of IoT,ML,GenAI**
