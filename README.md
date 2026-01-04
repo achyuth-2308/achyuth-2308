@@ -1,6 +1,6 @@
-# Achyuth Mukund
+# Hi 👋, I’m Achyuth Mukund :)
 
-**Software Developer | IoT + ML + GenAI + Automation**
+**Software Developer | Researching in the convergence of IoT,ML,GenAI**
 
 ### 🚀 What I build
 - Intelligent IoT systems
@@ -29,11 +29,11 @@
 <br>
 <h3 align="left">CONNECT WITH ME</h3>
 <p align="left">
-<a href="https://linkedin.com/in/iamrudhresh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamrudhresh" height="30" width="40" /></a>
-<a href="https://twitter.com/iamrudhresh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamrudhresh" height="30" width="40" /></a>
-<a href="https://fb.com/iamrudhresh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iamrudhresh" height="30" width="40" /></a>
-<a href="https://instagram.com/iamrudhresh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamrudhresh" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22327521/rudhresh-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="supun-nanayakkara" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/achyuth-mukund" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamrudhresh" height="30" width="40" /></a>
+<a href="https://twitter.com/achyuth2308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamrudhresh" height="30" width="40" /></a>
+<!-- <a href="https://fb.com/iamrudhresh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iamrudhresh" height="30" width="40" /></a> -->
+<a href="https://instagram.com/achyuth_2308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamrudhresh" height="30" width="40" /></a>
+<!-- <a href="https://stackoverflow.com/users/22327521/rudhresh-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="supun-nanayakkara" height="30" width="40" /></a> -->
 </p>
 <br>
 
