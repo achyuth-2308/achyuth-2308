@@ -26,20 +26,20 @@
             <a href="https://skillicons.dev">
               <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50" />
               <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50" /><br/>
-                   <img src="https://skillicons.dev/icons?i=py" alt="Python" width="50" height="50" /><br/>
-                       <img src="https://skillicons.dev/icons?i=c" alt="c" width="50" height="50" />
-                       <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50" height="50" />
-              <!-- Add more icons here if needed -->
+              <img src="https://skillicons.dev/icons?i=py" alt="Python" width="50" height="50" /><br/>
+              <img src="https://skillicons.dev/icons?i=c" alt="C" width="50" height="50" />
+              <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50" height="50" />
             </a>
           </div>
         </td>
+
         <!-- Frontend & Backend Development -->
         <td>
           <div align="center">
             <a href="https://skillicons.dev">
               <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50" height="50" />
               <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="50" height="50" />
-              <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="50" height="50"
+              <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" width="50" height="50" />
               <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50" />
               <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="50" height="50" />
               <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="50" height="50" />
@@ -47,16 +47,18 @@
             </a>
           </div>
         </td>
+
         <!-- Databases -->
         <td>
           <div align="center">
             <a href="https://skillicons.dev">
               <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50" />
               <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50" />
-              <img src="https://skillicons.dev/icons?i=mongodb" alt="Mongo DB" width="50" height="50" />
+              <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50" />
             </a>
           </div>
         </td>
+
         <!-- Tools/Platforms -->
         <td>
           <div align="center">
@@ -67,13 +69,13 @@
               <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50" height="50" />
               <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50" />
               <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="50" height="50" />
-              <img src="https://skillicons.dev/icons?i=aws" alt="Amazon Web Services" width="50" height="50" />
+              <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="50" height="50" />
               <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" width="50" height="50" />
-              <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud Platform" width="50" height="50" />
-              <img src="https://skillicons.dev/icons?i=tensorflow" alt="Tensor Flow" width="50" height="50" />
+              <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="50" height="50" />
+              <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="50" height="50" />
               <img src="https://skillicons.dev/icons?i=arduino" alt="Arduino" width="50" height="50" />
               <img src="https://skillicons.dev/icons?i=raspberrypi" alt="Raspberry Pi" width="50" height="50" />
-              <img src="https://skillicons.dev/icons?i=sklearn" alt="Sci-Kit Learn" width="50" height="50" />
+              <img src="https://skillicons.dev/icons?i=sklearn" alt="Scikit-Learn" width="50" height="50" />
             </a>
           </div>
         </td>
