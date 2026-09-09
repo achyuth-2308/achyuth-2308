@@ -1,119 +1,133 @@
 <!-- Full-width Image -->
-<img src="https://ik.imagekit.io/js1b7wgem/banner.jpeg?updatedAt=1746845501003" alt="Achyuth Mukund — Embedded Software and Intelligent Systems" width="100%">
+<img src="https://ik.imagekit.io/js1b7wgem/banner.jpeg?updatedAt=1746845501003" alt="Achyuth Mukund" width="100%">
 
 # Achyuth Mukund
 
-### Embedded Software · Firmware · IoT · Electronics · Test Automation · Applied ML
+### Embedded Software • Firmware • IoT • Electronics • Automation • ML
 
-I engineer software close to the hardware boundary—where device behavior, embedded intelligence, automation, and reliable validation come together.
+I like working where software has to deal with something **physical**.
 
-My work spans **IoT networks, machine-learning systems, LLM workflows, and engineering automation**. I am particularly interested in building dependable tools for real devices: observing physical behavior, processing device data, automating tests, and applying ML where deterministic systems alone are insufficient.
+My work sits somewhere between firmware, connected systems, test automation, and applied ML. I enjoy building things that talk to hardware, break in interesting ways, and then eventually become reliable.
 
-I am currently completing a **B.Tech in Computer Science and Engineering (IoT)** at **Shiv Nadar University Chennai**, alongside a **B.S. in Data Science and Applications** from **IIT Madras**.
-
----
-
-## Engineering Focus
-
-- **Embedded and connected systems** — software designed around devices, hardware constraints, and IoT communication
-- **Firmware-oriented development** — C/C++, Python, Arduino tooling, Linux, and hardware-adjacent workflows
-- **Validation and automation** — repeatable test pipelines, CI workflows, API testing, and engineering tooling
-- **Applied ML and AI** — PyTorch, scikit-learn, numerical computing, and intelligent automation
-- **LLM systems** — structured workflows and agentic pipelines using LangChain and LangGraph
+Currently pursuing a **B.Tech in Computer Science and Engineering (IoT)** at **Shiv Nadar University Chennai**, alongside a **B.S. in Data Science and Applications** from **IIT Madras**.
 
 ---
 
-## Technical Toolkit
+## 🛠️ Tech Stack
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<td align="center" valign="top" width="25%">
+
+### Languages
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=c,cpp,py,java,js&perline=5" />
+</a>
+
+</td>
+
+<td align="center" valign="top" width="25%">
 
 ### Embedded & Systems
 
-- C
-- C++
-- Python
-- Arduino IDE
-- Linux
-- IoT networks
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=arduino,linux&perline=5" />
+</a>
+
+<br>
+
+IoT • Hardware Integration
 
 </td>
-<td valign="top" width="33%">
 
-### ML, Data & AI
+<td align="center" valign="top" width="25%">
 
-- PyTorch
-- scikit-learn
-- NumPy
-- Pandas
-- Jupyter
-- LangChain
-- LangGraph
+### ML & AI
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=pytorch&perline=5" />
+</a>
+
+<br>
+
+NumPy • Pandas • Scikit-Learn
+LangChain • LangGraph
 
 </td>
-<td valign="top" width="34%">
 
-### Engineering & Automation
+<td align="center" valign="top" width="25%">
 
-- Git and GitHub
-- Jenkins
-- GitHub Actions
-- Azure
-- Postman
-- VS Code
-- Flask
-- React
-- Java
-- JavaScript
+### Tools & Platforms
+
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=git,github,jenkins,azure,vscode,postman&perline=3" />
+</a>
 
 </td>
 </tr>
 </table>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,arduino,linux,pytorch,sklearn,git,github,jenkins,azure,flask&perline=12" alt="Core engineering technologies">
+---
+
+## 🔬 What I've Been Up To
+
+**Logitech**
+Software Development Engineering & GenAI Intern
+
+**Prodapt**
+GenAI & Machine Learning Intern
+
+**Hybrid Intelligence Lab, IIITDM**
+Research Intern
+
+**STIRS**
+Research Grant Student
+
+---
+
+## 🎓 Education
+
+**Shiv Nadar University Chennai**
+B.Tech, Computer Science & Engineering (IoT)
+
+**IIT Madras**
+B.S., Data Science & Applications
+
+---
+
+## A Few Things Outside the Terminal
+
+🎹 **12+ years of keyboard** | Carnatic music performances in Chennai
+🏏 **Pace bowler** | Middle-order batsman
+🏆 **Guinness World Record** | Largest Keyboard Ensemble, 2014
+
+I spend an unreasonable amount of time trying to figure out why things aren't behaving as expected.
+
+Usually, they're not.
+
+---
+
+## 🌐 Connect
+
+<p align="left">
+<a href="https://linkedin.com/in/achyuth-mukund">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="32"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:achyuth2004@gmail.com">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" width="32"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://twitter.com/achyuth2308">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="32"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://instagram.com/achyuth_2308">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="32"/>
+</a>
 </p>
 
----
-
-## Experience & Research
-
-**Software Development Engineering & GenAI Intern — Logitech**  
-Experience at the intersection of software engineering and generative AI.
-
-**GenAI & Machine Learning Intern — Prodapt**  
-Worked in applied machine learning and generative-AI engineering.
-
-**Research Intern — Hybrid Intelligence Lab, IIITDM**  
-Research experience in intelligent systems.
-
-**STIRS Research Grant Student**  
-Selected for research work under the STIRS grant program.
-
----
-
-## Education
-
-**Shiv Nadar University Chennai**  
-B.Tech, Computer Science and Engineering — Internet of Things
-
-**Indian Institute of Technology Madras**  
-B.S., Data Science and Applications
-
----
-
-## A Different Kind of Systems Thinking
-
-Outside engineering, I have spent **12+ years playing the keyboard**, including Carnatic music performances in Chennai. I am also a pace bowler and middle-order batsman.
-
-In 2014, I participated in the **Largest Keyboard Ensemble**, recognized by **Guinness World Records**.
-
-Music, cricket, and engineering reward the same habits: timing, precision, coordination, and knowing when a system is not behaving as expected.
-
----
-
-## Connect
 
 [LinkedIn](https://linkedin.com/in/achyuth-mukund) ·
 [Email](mailto:achyuth2004@gmail.com) ·
