@@ -1,38 +1,124 @@
 <!-- Full-width Image -->
-<img src="https://ik.imagekit.io/js1b7wgem/banner.jpeg?updatedAt=1746845501003" alt="Coding Banner" style="width: 100%; height: auto;">
+<img src="https://ik.imagekit.io/js1b7wgem/banner.jpeg?updatedAt=1746845501003" alt="Achyuth Mukund — Embedded Software and Intelligent Systems" width="100%">
 
-# Hi, I’m Achyuth Mukund :)
+# Achyuth Mukund
 
-- I'm a Final year B. Tech CSE (IoT) student at **Shiv Nadar University Chennai**, parallelly pursuing a **B.S. in Data Science and Applications from IIT Madras**.  
-- I build things that involve **IoT networks, ML models, LLM workflows, and automation pipelines**. This README highlights the work I’ve done so far, especially my internships and research experience.
+### Embedded Software · Firmware · IoT · Electronics · Test Automation · Applied ML
 
+I engineer software close to the hardware boundary—where device behavior, embedded intelligence, automation, and reliable validation come together.
 
-<h3 align="left">Languages and Tools:</h3>
-<div align="center">
-  <table>
-    <thead>
-      <tr>
-        <th>Programming Languages</th>
-        <th>Frontend & Backend Tools</th>
-        <th>Databases</th>
-        <th>Tools & Platforms</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <!-- Programming Languages -->
-        <td>
-          <div align="center">
-            <a href="https://skillicons.dev">
-              <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" height="50" />
-              <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50" /><br/>
-              <img src="https://skillicons.dev/icons?i=py" alt="Python" width="50" height="50" /><br/>
-              <img src="https://skillicons.dev/icons?i=c" alt="C" width="50" height="50" />
-              <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50" height="50" />
-            </a>
-          </div>
-        </td>
+My work spans **IoT networks, machine-learning systems, LLM workflows, and engineering automation**. I am particularly interested in building dependable tools for real devices: observing physical behavior, processing device data, automating tests, and applying ML where deterministic systems alone are insufficient.
 
+I am currently completing a **B.Tech in Computer Science and Engineering (IoT)** at **Shiv Nadar University Chennai**, alongside a **B.S. in Data Science and Applications** from **IIT Madras**.
+
+---
+
+## Engineering Focus
+
+- **Embedded and connected systems** — software designed around devices, hardware constraints, and IoT communication
+- **Firmware-oriented development** — C/C++, Python, Arduino tooling, Linux, and hardware-adjacent workflows
+- **Validation and automation** — repeatable test pipelines, CI workflows, API testing, and engineering tooling
+- **Applied ML and AI** — PyTorch, scikit-learn, numerical computing, and intelligent automation
+- **LLM systems** — structured workflows and agentic pipelines using LangChain and LangGraph
+
+---
+
+## Technical Toolkit
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+### Embedded & Systems
+
+- C
+- C++
+- Python
+- Arduino IDE
+- Linux
+- IoT networks
+
+</td>
+<td valign="top" width="33%">
+
+### ML, Data & AI
+
+- PyTorch
+- scikit-learn
+- NumPy
+- Pandas
+- Jupyter
+- LangChain
+- LangGraph
+
+</td>
+<td valign="top" width="34%">
+
+### Engineering & Automation
+
+- Git and GitHub
+- Jenkins
+- GitHub Actions
+- Azure
+- Postman
+- VS Code
+- Flask
+- React
+- Java
+- JavaScript
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,arduino,linux,pytorch,sklearn,git,github,jenkins,azure,flask&perline=12" alt="Core engineering technologies">
+</p>
+
+---
+
+## Experience & Research
+
+**Software Development Engineering & GenAI Intern — Logitech**  
+Experience at the intersection of software engineering and generative AI.
+
+**GenAI & Machine Learning Intern — Prodapt**  
+Worked in applied machine learning and generative-AI engineering.
+
+**Research Intern — Hybrid Intelligence Lab, IIITDM**  
+Research experience in intelligent systems.
+
+**STIRS Research Grant Student**  
+Selected for research work under the STIRS grant program.
+
+---
+
+## Education
+
+**Shiv Nadar University Chennai**  
+B.Tech, Computer Science and Engineering — Internet of Things
+
+**Indian Institute of Technology Madras**  
+B.S., Data Science and Applications
+
+---
+
+## A Different Kind of Systems Thinking
+
+Outside engineering, I have spent **12+ years playing the keyboard**, including Carnatic music performances in Chennai. I am also a pace bowler and middle-order batsman.
+
+In 2014, I participated in the **Largest Keyboard Ensemble**, recognized by **Guinness World Records**.
+
+Music, cricket, and engineering reward the same habits: timing, precision, coordination, and knowing when a system is not behaving as expected.
+
+---
+
+## Connect
+
+[LinkedIn](https://linkedin.com/in/achyuth-mukund) ·
+[Email](mailto:achyuth2004@gmail.com) ·
+[X](https://twitter.com/achyuth2308) ·
+[Instagram](https://instagram.com/achyuth_2308)
         <!-- Frontend & Backend Development -->
         <td>
           <div align="center">
@@ -81,7 +167,8 @@
         </td>
       </tr>
     </tbody>
-  </table>
+    <!--
+  <!--</table>
 </div>
 
 
