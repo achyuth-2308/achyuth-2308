@@ -73,7 +73,7 @@ LangChain • LangGraph
 ## 🔬 What I've Been Up To
 
 **Logitech**
-Software Development Engineering & GenAI Intern
+Firmware Engineer - Embedded Software Group, DevOps and Test Automation Intern
 
 **Prodapt**
 GenAI & Machine Learning Intern
